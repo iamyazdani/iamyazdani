@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamyazdani](https://github.com/iamyazdani)
 
-- 💬 Ask me about **Java, SQL, Front-end technologies, life advice🤣🤣, tech solution👩‍💻, travelling✈️, and food🍎🥝🍗🌭🍔🍟🍕.**
+- 💬 Ask me about **Java, SQL, front-end technologies, life advice🤣🤣, tech solution👩‍💻, travelling✈️, and food🍎🥝🍗🌭🍔🍟🍕.**
 
 - 📫 How to reach me **gulamyazdani03@gmail.com**
 
