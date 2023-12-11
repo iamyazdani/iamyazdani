@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)]
 <h1 align="center">Hi! 👋, I'm Gulam Yazdani.</h1>
-<h3 align="center">An Enthusiastic and creative🤩 Full stack Developer who can adapt to a given situation as per the organization's needs. I like to read novels📚, solve problems🧐, travelling✈️, and photography📷. I like to explore new places with different traditions and cultures.</h3>
+<h3 align="center">An Enthusiastic and creative🤩 Full-stack Developer who can adapt to a given situation as per the organization's needs. I like to read novels📚, solve problems🧐, travelling✈️, and photography📷. I like to explore new places with different traditions and cultures.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
