@@ -7,7 +7,7 @@
 - 💬 **Ask me about:** `Core Java`, `Javascript`, `React.js`, `Node.js`, `SQL`, `Front-end technologies`, and any software development questions, `life advice`🤣, travelling✈️, and food🍔🍕.
 - 👨‍💻 Life Hack: Learn new `tech` 🔥 and share what you have learned.🎉
 - 📫 **How to reach me:** gulamyazdani03@gmail.com
-- ⚡ **Fun fact:** My brain refused to work after heavy meals😅.
+- ⚡ **Fun fact:** I need coffee breaks during my working hours😅.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamyazdani_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_the_gentleman04/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulamyazdani4/)
